@@ -135,6 +135,8 @@ A package manager or package management system is a collection of software tools
 - [ ] [FrontEnd Focus](https://twitter.com/FrontEndDaily)
 - [ ] [NodeJS](https://twitter.com/NodeJSWeekly)
 - [ ] [BrazilJS](https://github.com/braziljs/weekly/issues)
+- [ ] [Wappalyzer](https://github.com/AliasIO/Wappalyzer)
+- [ ] [First Contributions](https://github.com/firstcontributions/firstcontributions.github.io)
 
 
 ## Contributing
