@@ -1,15 +1,6 @@
-<a align="center" href="http://milligram.github.io"><img width="100%" src="https://cloud.githubusercontent.com/assets/1542831/20557424/3ec71a24-b14a-11e6-97f3-a63249eec03d.png" alt="Open Source Checklist"></a>
+<a align="center" href="https://github.com/cjpatoilo/open-source-recipe"><img width="100%" src="https://cloud.githubusercontent.com/assets/1542831/20557424/3ec71a24-b14a-11e6-97f3-a63249eec03d.png" alt="Open Source Recipe"></a>
 
 > A meaningful open source checklist.
-
-
-[![Travis Status](https://travis-ci.org/milligram/milligram.svg?branch=master)](https://travis-ci.org/milligram/milligram?branch=master)
-[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/wabkk000uh6d97xk?svg=true)](https://ci.appveyor.com/project/cjpatoilo/milligram)
-[![Version Status](https://badge.fury.io/js/milligram.svg)](https://www.npmjs.com/package/milligram)
-[![Dependencies Status](https://david-dm.org/milligram/milligram.svg)](https://travis-ci.org/milligram/milligram?branch=master)
-[![Codacy Status](https://img.shields.io/codacy/grade/848fb4bd6902434fab0bcfb5461284fe/master.svg)](https://www.codacy.com/app/cjpatoilo/milligram/dashboard)
-[![Download Status](https://img.shields.io/npm/dt/milligram.svg)](https://www.npmjs.com/package/milligram)
-[![Gitter Chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/milligram/milligram)
 
 
 ## Why it's awesome?
